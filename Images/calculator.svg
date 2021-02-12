@@ -1,0 +1,27 @@
+ <svg xmlns="http://www.w3.org/2000/svg" height="512px" width="512px">
+ <rect height="512px" width="512px" fill="white"/>
+            <rect x="54px" y="0px" height="512px" width="404px" rx="40px" ry="40px" fill="black"/>
+                <!-- <screen> -->
+                <rect x="106px" y="57px" height="90px" width="300px" rx="20px" ry="20px" fill="white"/>
+                <!-- </screen> -->
+
+                <!-- <plus> -->
+                <line x1="124px" y1="260px" x2="214px" y2="260px" stroke-width="27px" stroke="white" stroke-linecap="round"/>
+                <line x1="169px" y1="215" x2="169px" y2="305px" stroke-width="27px" stroke="white" stroke-linecap="round"/>
+                <!-- </plus> -->
+
+                <!-- </minus> -->
+                <line x1="300px" y1="260px" x2="390px" y2="260px" stroke-width="27px" stroke="white" stroke-linecap="round"/>
+                <!-- <minus> -->
+
+                <!-- <multiplication> -->
+                <line x1="135px" y1="370px" x2="205px" y2="440px" stroke-width="27px" stroke="white" stroke-linecap="round"/>
+                <line x1="135px" y1="440px" x2="205px" y2="370px" stroke-width="27px" stroke="white" stroke-linecap="round"/>
+                <!-- </multiplication> -->
+
+                <!-- <division> -->
+                <circle cx="310px" cy="370px" r="17px" fill="white"/>
+                <line x1="310px" y1="440px" x2="380px" y2="370px" stroke-width="27px" stroke="white" stroke-linecap="round"/>
+                <circle cx="384px" cy="436px" r="17px" fill="white"/>
+                <!-- </division> -->
+        </svg>
